@@ -1,1 +1,1 @@
-# lending_club_case_study_eda
+# spark_funds_case_study_eda
